@@ -1,0 +1,11 @@
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\bin\Debug\CalcularDescuentosPOO.exe.config
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\bin\Debug\CalcularDescuentosPOO.exe
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\bin\Debug\CalcularDescuentosPOO.pdb
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.csproj.AssemblyReference.cache
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.Form1.resources
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.Properties.Resources.resources
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.csproj.GenerateResource.cache
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.csproj.CoreCompileInputs.cache
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.exe
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.pdb
+C:\Users\AdminSena\MiPrimerProyecto\CalcularDescuentosPOO\obj\Debug\CalcularDescuentosPOO.exe.config
