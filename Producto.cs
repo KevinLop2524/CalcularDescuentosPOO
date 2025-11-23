@@ -9,9 +9,9 @@ namespace CalcularDescuentosPOO
 {
     public class Producto
     {
-        private string nombre { get; set; }
-        private decimal precio { get; set; }
-        private string tipo { get; set; }
+        public string nombre { get; set; }
+        public decimal precio { get; set; }
+        public string tipo { get; set; }
 
         public Producto(string nombre, decimal precio, string tipo)
         {
@@ -20,8 +20,10 @@ namespace CalcularDescuentosPOO
             this.tipo = tipo;
         }
 
+        public Producto() {}
 
-        public decimal CalcularDescuento(decimal precio, string tipo)
+
+        /*public decimal CalcularDescuento(decimal precio, string tipo)
         {
             try
             {
@@ -47,7 +49,13 @@ namespace CalcularDescuentosPOO
 
             }
             catch {  return 0; };
-        }
+        }*/
 
+        public virtual decimal CalcularDescuento(decimal precio)
+        {
+            decimal resultado = precio * 0.05m;
+            return resultado;
+
+        }
     }
 }

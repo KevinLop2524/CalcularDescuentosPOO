@@ -15,7 +15,7 @@ namespace CalcularDescuentosPOO
     {
 
         public Producto producto;
-        public Utilidades utilidades= new Utilidades();
+        public Utilidades utilidades = new Utilidades();
 
 
         public Form1()
